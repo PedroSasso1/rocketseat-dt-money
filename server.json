@@ -1,0 +1,27 @@
+{
+  "transactions": [{
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-02-07T16:08:00.000Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 59.50,
+      "createdAt": "2024-02-07T17:08:00.000Z"
+    },
+    {
+      "id": 3,
+      "description": "Rocketseat Ignite",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2024-02-03T17:08:00.000Z"
+    }
+  ]
+}
