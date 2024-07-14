@@ -1,5 +1,6 @@
 {
-  "transactions": [{
+  "transactions": [
+    {
       "id": 1,
       "description": "Desenvolvimento de site",
       "type": "income",
@@ -12,7 +13,7 @@
       "description": "Hamburguer",
       "type": "outcome",
       "category": "Alimentação",
-      "price": 59.50,
+      "price": 59.5,
       "createdAt": "2024-02-07T17:08:00.000Z"
     },
     {
@@ -22,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2024-02-03T17:08:00.000Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-07-14T01:53:23.142Z",
+      "id": 4
+    },
+    {
+      "description": "Conta internet",
+      "price": 200,
+      "category": "Despesas",
+      "type": "outcome",
+      "createdAt": "2024-07-14T01:55:32.644Z",
+      "id": 5
     }
   ]
 }
